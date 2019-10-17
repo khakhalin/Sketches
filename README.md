@@ -1,3 +1,4 @@
 # Programming Sketches
 
 * **alphabets** - A program and a set of input/output files that take a text in English, and replace letters in it one by one, with letters from either [Russian](https://github.com/khakhalin/Sketches/blob/master/alphabets/alice_out_russian.md), [Greek](https://github.com/khakhalin/Sketches/blob/master/alphabets/alice_out_greek.md), or [Georgian](https://github.com/khakhalin/Sketches/blob/master/alphabets/alice_out_georgian.md) alphabet. Can you keep reading the text? Will you brain be able to adjust on-the-fly? Try it!
+* **job search optimizer** - A genetic algorithm to develop the best strategy of applying to IT jobs. Spoiler: according to this simulation, it's best to apply for worst 30-50% of jobs first, reject all offers. Then sort the remaining jobs from top (dream) to OK, and apply in this order, taking the first offer you get. Kinda obvious in the hindsight.
