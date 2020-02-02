@@ -100,9 +100,8 @@ class Graph:
             j = np.random.randint(self.nv)
             self.add_edge(j,i)
     
-    def force_toporder(self):
-        """Forces a DFS-based topological order; is not afraid of cycles, but also ruins DAGs
-        (ignores good reasonable edges and just plows ahead)."""
+    def rpo(self):
+        """Reversed Post-Order (DFS-based). Returns a toporder on a DAG, just an RPO on others."""
         queue = list(self.adj.keys()) # By itself keys() return dict keys object, and not a list
         topo = []
         while len(queue)>0:
