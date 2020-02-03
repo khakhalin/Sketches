@@ -14,3 +14,5 @@ board_scheduler/.ipynb_checkpoints/
 bio models/.ipynb_checkpoints/
 
 .ipynb_checkpoints/
+
+*.pyc
