@@ -58,16 +58,16 @@ class Graph:
     def dfs(self,v=None,visited=None,path=None,topord=None,verbose=False):
         """Depth-first search from a given, or random, node. Returns topological sorting from this node."""
         if v is None: v=next(iter(self.adj.keys()))     # If needed, pick some random vertex as a root
-        if visited is None: visited = [0]*len(self.adj) # If needed, mark all v as unvisited
+        if visited is None: visited = []                # If needed, set all v as unvisited
         if path is None:    path = []
         if topord is None:  topord = []                 # Topological ordering, will be returned
-        visited[v] = 1                                  # Mark current v as visited
+        visited.append(v)                               # Mark current v as visited
         path += [v]
         if verbose: print(path)
         for i in self.adj[v]:                           # For all connections from the current vertex
-            if visited[i]==0:                           # If they weren't yet visited, visit them
+            if i not in visited:                        # If they weren't yet visited, visit them
                 topord = self.dfs(i,visited,path,topord=topord,verbose=verbose)
-        return [v]+topord                               # Update topo-order when LEAVING the node (reverse postorder)
+        return [v]+topord       
                 
     def bfs(self,v=None,target=None,verbose=False):
         """Breadth-first exploration, looking for a distance from one vertex to another."""
@@ -93,12 +93,40 @@ class Graph:
         return g
     
     def randomize(self,nedges=None):
-        """Add some random edges to the graph (n_edges==n_nodes by default)."""
+        """Add random edges to the graph (by default, E = V)."""
         if nedges is None: nedges = self.nv
         for _ in range(nedges):
             i = np.random.randint(self.nv)
             j = np.random.randint(self.nv)
             self.add_edge(j,i)
+            
+    def erase(self):
+        """Remove all edges from a graph."""
+        for k,v in self.adj.items():
+            self.adj[k] = []
+            
+    def urchin(self,n=20):
+        """Generate a directed graph with high modularity."""
+        self.erase()
+        nclusters = np.floor(np.sqrt(n)).astype(int)
+        orphans = list(range(n))                       # List of nodes without links
+        for iclust in range(nclusters):
+            lo = iclust*nclusters
+            if iclust==nclusters-1:
+                hi = n
+            else:
+                hi = (iclust+1)*nclusters        
+            for i in range(hi-lo):
+                node1 = np.random.randint(low=lo,high=hi)
+                node2 = np.random.randint(low=lo,high=hi)
+                self.add_edge(node1 , node2)
+                if node1 in orphans: orphans.remove(node1)
+                if node2 in orphans: orphans.remove(node2)
+        for i in orphans:
+            if np.random.uniform(1)<0.5:
+                self.add_edge(i, np.random.randint(n))
+            else:
+                self.add_edge(np.random.randint(n),i)
     
     def rpo(self):
         """Reversed Post-Order (DFS-based). Returns a toporder on a DAG, just an RPO on others."""
