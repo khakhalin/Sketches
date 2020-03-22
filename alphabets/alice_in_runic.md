@@ -160,7 +160,7 @@ way?" holding her hand on the top of her head to feel which way she was
 growing; and she was quite surprised to find that she remained the same
 size. So she set to work and very soon finished off the cake.
 
-## G becomes ᚷ. %G>ᚷ%%g>ᚷ%
+## G becomes ᚷ %G>ᚷ%%g>ᚷ%, while the Latin X becomes ᚧ. %X>ᚧ%%x>ᚧ%
 
 "Curiouser and curiouser!" cried Alice (she was so much surprised that
 for the moment she quite forgot how to speak good English). "Now I'm
@@ -169,7 +169,7 @@ my poor little feet, I wonder who will put on your shoes and stockings
 for you now, dears? I shall be a great deal too far off to trouble
 myself about you."
 
-## Now J becomes ᛃ. %J>ᛃ%%j>ᛃ%
+## J becomes ᛃ. %J>ᛃ%%j>ᛃ%
 
 Just at this moment her head struck against the roof of the hall; in
 fact, she was now rather more than nine feet high, and she at once took
@@ -184,7 +184,7 @@ hopeless than ever. She sat down and began to cry again.
 She went on shedding gallons of tears, until there was a large pool all
 'round her and reaching half down the hall.
 
-## Two last infrequent letters, before we switch to vowels. W becomes ᚹ, and X becomes ᚧ. %W>ᚹ%%w>ᚹ%
+## The last consonant: W becomes ᚹ %W>ᚹ%%w>ᚹ%
 
 > ᚧ for X is an approximation, but it seems consistent with medieval runes and Old Norse grammar. %X>ᚧ%%x>ᚧ%
 
@@ -200,7 +200,7 @@ you please, sir--" The Rabbit started violently, dropped the white
 kid-gloves and the fan and skurried away into the darkness as hard as he
 could go.
 
-## And now, the remaining vowels. A will now become ᚨ. %A>ᚨ%%a>ᚨ%
+## Now, the remaining vowels. A becomes ᚨ. %A>ᚨ%%a>ᚨ%
 
 Alice took up the fan and gloves and she kept fanning herself all the
 time she went on talking. "Dear, dear! How queer everything is to-day!
