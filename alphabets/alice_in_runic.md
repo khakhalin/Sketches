@@ -82,9 +82,9 @@ they were all locked; and when Alice had been all the way down one side
 and up the other, trying every door, she walked sadly down the middle,
 wondering how she was ever to get out again.
 
-## The letter Q will be rendered as KW: ᚲᚹ, for etymological reasons. %Q>ᚲᚹ%%q>ᚲᚹ%. Quail quacks quickly!
+## The letter Q will be rendered as ᛢ from now on. %Q>ᛢ%%q>ᛢ% Quail quacks quickly!
 
-## Also, K becomes ᚴ, and C becomes ᚲ. ᚴ actually comes from younger Futhark, but oh well. %K>ᚴ%%k>ᚴ%%C>ᚲ%%c>ᚲ%
+## Also, K becomes ᚴ, and C becomes ᚳ. The rune ᚴ actually comes from younger Futhark, while ᚳ is Anglo-Saxon, and they should never meet in the same sentence, but oh well. %K>ᚴ%%k>ᚴ%%C>ᚳ%%c>ᚳ%
 
 Suddenly she came upon a little table, all made of solid glass. There
 was nothing on it but a tiny golden key, and Alice's first idea was that
