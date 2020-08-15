@@ -1,0 +1,41 @@
+# TF log while training the model:
+
+( while running history = model.fit(x,y,epochs=10,verbose=0,callbacks=[PrintDot()]) )
+
+
+
+Executing op RangeDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op RepeatDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op MapDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op PrefetchDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op FlatMapDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op TensorDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op RepeatDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op ZipDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op ParallelMapDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op DatasetCardinality in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op ModelDataset in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op AnonymousIteratorV2 in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op MakeIterator in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op AssignVariableOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op Fill in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op Reshape in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op VarHandleOp in device /job:localhost/replica:0/task:0/device:CPU:0
+Executing op __inference_initialize_variables_558 in device /job:localhost/replica:0/task:0/device:GPU:0
+Executing op __inference_distributed_function_765 in device /job:localhost/replica:0/task:0/device:GPU:0
