@@ -1372,3 +1372,37 @@ Birdptôch
 Fishrëba
 Butterflymòtil
 Honeybeepszczoła
+
+@mostaleoht
+Tatar
+Dog faceэт
+Cat faceмәче
+Mouse faceтычкан
+Rabbit faceкуян
+Bear faceаю
+Cow faceсыер
+Pig faceдуңгыз
+Frog faceбака
+Wolf faceбуре
+Fox faceтелке
+Birdкош
+Fishбалык
+Butterflyкүбәләк
+Honeybeeбал корты
+
+@mostaleoht
+Bashkir
+Dog faceэт
+Cat faceбесәй
+Mouse faceсысҡан
+Rabbit faceҡуян
+Bear faceайыу
+Cow faceһыйыр
+Pig faceсусҡа
+Frog faceтәлмәрйен
+Wolf faceбүре
+Fox faceтөлкө
+Birdҡош
+Fishбалыҡ
+Butterflyкүбәләк
+Honeybeeбал ҡорто
