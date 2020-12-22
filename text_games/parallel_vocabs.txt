@@ -153,7 +153,7 @@ Butterflypapallona
 Honeybeeabella 
 
 @SavyRenaud
-Fenouillèdes
+Fenouillèdes Occitan
 Dog facegos
 Cat facegat
 Mouse facemirga
@@ -226,10 +226,10 @@ Butterflymariposa
 Honeybeeabe
 
 @MenydhKernewek
-Kernewek
+Cornish
 Dog face Ki
 Cat face Kath
-Mouse face Rath
+Mouse face llygoden
 Rabbit face Konin
 Bear face Ors
 Cow face Bugh
@@ -246,11 +246,12 @@ Lady beetle Bughik Dhuw
 Snake Sarf
 Fish Pysk
 Duck Hos
+Bird Edhen
 Chipmunk Gwiwer
 Goat Gavver
 Sheep Darras
 Dolphin Morhogh
-Mouse face Logosen
+Fishpysk
 
 @Tontonig
 Gallo
@@ -381,32 +382,6 @@ Fish Poessun
 Duck Canét
 Chipmunk Éçhurou
 Goat Chebre
-
-@filip_enpoint
-Uncroatian
-Dog face Krstičević
-Cat face Rimac
-Mouse face Marić
-Rabbit face Koržinek
-Bear face Medved
-Cow face Petir
-Pig face Šeks
-Frog face Taritaš
-Chicken Žalac
-Baby chick Aladrović
-Bird Grmoja
-Wolf face Bulj
-Fox face Fuchs
-Horse face Škoro
-Honeybee Raspudić
-Butterfly Orešković
-Deer Grmoja
-Lady beetle Benčić
-Snake Krišto
-Fish Selak
-Duck Miletić
-Chipmunk Milanović
-Goat Radman
 
 @jylme
 Meadow Mari
@@ -710,23 +685,6 @@ Fishpèsciu
 Butterflyfarfalla
 Honeybeeapa
 
-@EuroMinLang
-Cornish
-Dog faceki
-Cat facekath
-Mouse facelogosen
-Rabbit facekonin
-Bear faceors
-Cow facebugh
-Pig facehogh
-Frog facekwilkyn
-Wolf facebleydh
-Fox facelowarn
-Birdedhen
-Fishpysk
-Butterflytykki-Duw
-Honeybeegwenenen
-
 @FalamosN
 Falemos
 Dog faceperru
@@ -872,3 +830,481 @@ Fish fish
 Butterfly butterfly
 Honeybee bee
 
+
+
+
+@google
+Portuguese
+Dog facecão
+Cat facegato
+Mouse facerato
+Rabbit facecoelho
+Bear faceurso
+Cow facevaca
+Pig faceporco
+Frog facesapo
+Wolf facelobo
+Fox faceraposa
+Birdpássaro
+Fishpeixe
+Butterflyborboleta
+Honeybeeabelha
+
+@google
+Castilian
+Dog faceperro
+Cat facegato
+Mouse faceratón
+Rabbit faceconejo
+Bear faceoso
+Cow facevaca
+Pig facecerdo
+Frog facerana
+Wolf facelobo
+Fox facezorro
+Birdpájaro
+Fishpez
+Butterflymariposa
+Honeybeeabeja
+
+@google
+Icelandic
+Dog facehundur
+Cat faceköttur
+Mouse facemús
+Rabbit facekanína
+Bear facebjörn
+Cow facekýr
+Pig facesvín
+Frog facefroskur
+Wolf faceúlfur
+Fox facerefur
+Birdfugl
+Fishfiskur
+Butterflyfiðrildi
+Honeybeebýfluga
+
+@google
+Danish
+Dog facehund
+Cat facekat
+Mouse facemus
+Rabbit facekanin
+Bear facebjørn
+Cow faceko
+Pig facegris
+Frog facefrø
+Wolf faceulv
+Fox faceræv
+Birdfugl
+Fishfisk
+Butterflysommerfugl
+Honeybeebi
+
+@google
+Swedish
+Dog facehund
+Cat facekatt
+Mouse facemus
+Rabbit facekanin
+Bear facebjörn
+Cow faceko
+Pig facegris
+Frog facegroda
+Wolf facevarg
+Fox faceräv
+Birdfågel
+Fishfisk
+Butterflyfjäril
+Honeybeebi
+
+@google
+Finnish
+Dog facekoira
+Cat facekissa
+Mouse facehiiri
+Rabbit facekani
+Bear facekarhu
+Cow facelehmä
+Pig facesika
+Frog facesammakko
+Wolf facesusi
+Fox facekettu
+Birdlintu
+Fishkala
+Butterflyperhonen
+Honeybeemehiläinen
+
+@google
+Estonian
+Dog facekoer
+Cat facekass
+Mouse facehiire
+Rabbit faceküülik
+Bear facekaru
+Cow facelehm
+Pig facesiga
+Frog facekonn
+Wolf facehunt
+Fox facerebane
+Birdlind
+Fishkala
+Butterflyliblikas
+Honeybeemesilane
+
+@google
+Latvian
+Dog facesuns
+Cat facekaķis
+Mouse facepele
+Rabbit facetrusis
+Bear facelācis
+Cow facegovs
+Pig facecūka
+Frog facevarde
+Wolf facevilks
+Fox facelapsa
+Birdputns
+Fishzivs
+Butterflytauriņš
+Honeybeebite
+
+@google
+Lithuanian
+Dog facešuo
+Cat facekatė
+Mouse facepelės
+Rabbit facetriušis
+Bear facemeška
+Cow facekarvė
+Pig facekiaulių
+Frog facevarlė
+Wolf facevilkas
+Fox facelapė
+Birdpaukštis
+Fishžuvis
+Butterflydrugelis
+Honeybeebičių
+
+@google
+Belarusian
+Dog faceсабака
+Cat faceкот
+Mouse faceмыш
+Rabbit faceтрусік
+Bear faceмядзведзь
+Cow faceкарова
+Pig faceсвіння
+Frog faceжаба
+Wolf faceвоўк
+Fox faceлiса
+Birdптушка
+Fishрыба
+Butterflyматылёк
+Honeybeeпчала
+
+@google
+Ukrainian
+Dog faceсобака
+Cat faceкiт
+Mouse faceмиша
+Rabbit faceкролик
+Bear faceведмідь
+Cow faceкорова
+Pig faceсвиня
+Frog faceжаба
+Wolf faceвовк
+Fox faceлисиця
+Birdптах
+Fishриба
+Butterflyметелик
+Honeybeeбджола
+
+@google
+Dutch
+Dog facehond
+Cat facekat
+Mouse facemuis
+Rabbit facekonijn
+Bear facebeer
+Cow facekoe
+Pig facevarken
+Frog facekikker
+Wolf facewolf
+Fox facevos
+Birdvogel
+Fishvis
+Butterflyvlinder
+Honeybeebij
+
+@google
+German
+Dog facehund
+Cat facekatze
+Mouse facemaus
+Rabbit facekaninchen
+Bear facebär
+Cow facekuh
+Pig faceSchwein
+Frog facefrosch
+Wolf facewolf
+Fox faceFuchs
+Birdvogel
+Fishfisch
+ButterflySchmetterling
+Honeybeebiene
+
+@google
+Italian
+Dog facecane
+Cat facegatto
+Mouse facetopo
+Rabbit faceconiglio
+Bear faceorso
+Cow facemucca
+Pig facemaiale
+Frog facerana
+Wolf facelupo
+Fox facevolpe
+Birduccello
+Fishpesce
+Butterflyfarfalla
+Honeybeeun'ape
+
+@google
+Czech
+Dog facepes
+Cat facekočka
+Mouse facemyš
+Rabbit facekrálík
+Bear facemedvěd
+Cow facekráva
+Pig faceprase
+Frog facežába
+Wolf facevilk
+Fox faceliška
+Birdpták
+Fishryba
+Butterflymotýl
+Honeybeevčela
+
+@google
+Slovak
+Dog facepes
+Cat facemačka
+Mouse facemyš
+Rabbit facekrálík
+Bear facemedveď
+Cow facekrava
+Pig faceprasa
+Frog facežaba
+Wolf facevilk
+Fox faceliška
+Birdvták
+Fishryba
+Butterflymotýľ
+Honeybeevčela
+
+@google
+Polish
+Dog facepies
+Cat facekot
+Mouse facemysz
+Rabbit facekrólik
+Bear faceniedźwiedź
+Cow facekrowa
+Pig faceświnia
+Frog faceŻaba
+Wolf facewilk
+Fox facelis
+Birdptaków
+Fishryby
+Butterflymotyl
+Honeybeepszczoła
+
+@google
+Hungarian
+Dog facekutya
+Cat facemacska
+Mouse faceegér
+Rabbit facenyúl
+Bear facemedve
+Cow facetehén
+Pig facedisznó
+Frog facebéka
+Wolf facefarkas
+Fox faceróka
+Birdmadár
+Fishhal
+Butterflypillangó
+Honeybeeméh
+
+@google
+Slovenian
+Dog facepes
+Cat facemačka
+Mouse facemiš
+Rabbit facezajec
+Bear facemedved
+Cow facekrava
+Pig faceprašič
+Frog facežaba
+Wolf facevolk
+Fox facelisica
+Birdptica
+Fishribe
+Butterflymetulj
+Honeybeečebela
+
+@google
+Croatian
+Dog facepas
+Cat facemačka
+Mouse facemiš
+Rabbit facezec
+Bear facemedvjed
+Cow facekrava
+Pig facesvinja
+Frog facežaba
+Wolf facevuk
+Fox facelisica
+Birdptica
+Fishriba
+Butterflyleptir
+Honeybeepčela
+
+@google
+Serbian
+Dog faceпас
+Cat faceмачка
+Mouse faceмиш
+Rabbit faceзец
+Bear faceмедвед
+Cow faceкрава
+Pig faceсвиња
+Frog faceжаба
+Wolf faceвук
+Fox faceлисица
+Birdптица
+Fishриба
+Butterflyлептир
+Honeybeeпчела
+
+@google
+Romanian
+Dog facecâine
+Cat facepisică
+Mouse facesoarece
+Rabbit faceiepure
+Bear faceurs
+Cow facevacă
+Pig faceporc
+Frog facebroască
+Wolf facelup
+Fox facevulpe
+Birdpasăre
+Fishpește
+Butterflyfluture
+Honeybeealbina
+
+@google
+Bulgarian
+Dog faceкуче
+Cat faceкотка
+Mouse faceмишка
+Rabbit faceзаек
+Bear faceмечка
+Cow faceкрава
+Pig faceпрасе
+Frog faceжаба
+Wolf faceвълк
+Fox faceлисица
+Birdптица
+Fishриба
+Butterflyпеперуда
+Honeybeeпчела
+
+@google
+Macedonian
+Dog faceкуче
+Cat faceмачка
+Mouse faceглувчето
+Rabbit faceзајакот
+Bear faceмечка
+Cow faceкрава
+Pig faceсвиња
+Frog faceжаба
+Wolf faceволк
+Fox faceлисица
+Birdптица
+Fishриба
+Butterflyпеперутка
+Honeybeeпчелата
+
+@google
+Albanian
+Dog faceqen
+Cat facemace
+Mouse facemiu
+Rabbit facelepur
+Bear faceari
+Cow facelopë
+Pig facederr
+Frog facebretkocë
+Wolf faceujku
+Fox facedhelpër
+Birdzog
+Fishpeshk
+Butterflyflutur
+Honeybeebletë
+
+@google
+Greek
+Dog faceσκυλί
+Cat faceγάτα
+Mouse faceποντίκι
+Rabbit faceκουνέλι
+Bear faceαρκούδα
+Cow faceαγελάδα
+Pig faceγουρούνι
+Frog faceβάτραχο
+Wolf faceλύκος
+Fox faceαλεπού
+Birdπουλί
+Fishψάρι
+Butterflyπεταλούδα
+Honeybeeμέλισσα
+
+@google
+Turkish
+Dog faceköpek
+Cat facekedi
+Mouse facefare
+Rabbit facetavşan
+Bear faceayı
+Cow faceinek
+Pig facedomuz
+Frog facekurbağa
+Wolf facekurt
+Fox facetilki
+Birdkuş
+Fishbalık
+Butterflykelebek
+Honeybeearı
+
+@google
+Maltese
+Dog facekelb
+Cat faceqattus
+Mouse faceġurdien
+Rabbit facefenek
+Bear faceors
+Cow facebaqra
+Pig facemajjal
+Frog faceŻrinġ
+Wolf facelupu
+Fox facevolpi
+Birdgħasfur
+Fishħut
+Butterflyfarfett
+Honeybeetan-naħal
