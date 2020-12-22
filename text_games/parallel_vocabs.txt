@@ -1260,20 +1260,20 @@ Honeybeebletë
 
 @google
 Greek
-Dog faceσκυλί
-Cat faceγάτα
-Mouse faceποντίκι
-Rabbit faceκουνέλι
-Bear faceαρκούδα
-Cow faceαγελάδα
-Pig faceγουρούνι
-Frog faceβάτραχο
-Wolf faceλύκος
-Fox faceαλεπού
-Birdπουλί
-Fishψάρι
-Butterflyπεταλούδα
-Honeybeeμέλισσα
+Dog faceσκυλι
+Cat faceγατα
+Mouse faceποντικι
+Rabbit faceκουνελι
+Bear faceαρκουδα
+Cow faceαγελαδα
+Pig faceγουρουνι
+Frog faceβατραχο
+Wolf faceλυκος
+Fox faceαλεπου
+Birdπουλι
+Fishψαρι
+Butterflyπεταλουδα
+Honeybeeμελισσα
 
 @google
 Turkish
@@ -1308,3 +1308,37 @@ Birdgħasfur
 Fishħut
 Butterflyfarfett
 Honeybeetan-naħal
+
+@mostaleoht
+Lower Sorbian
+Dog facepjas
+Cat facekócka 
+Mouse facemyš
+Rabbit facekarnikel
+Bear facemjadwjeź
+Cow facekrowa
+Pig faceswinja
+Frog facežaba 
+Wolf facewjelk
+Fox faceliška 
+Birdptašk
+Fishryba 
+Butterflymjatel 
+Honeybeepcołka 
+
+@mostaleoht
+Upper Sorbian
+Dog facepos
+Cat facekóčka
+Mouse facemyš
+Rabbit facekarnikl
+Bear facemjedwjedź
+Cow facekruwa
+Pig faceswinjo
+Frog facežaba
+Wolf facewjelk
+Fox faceliška
+Birdptačk
+Fishryba
+Butterflymjetel
+Honeybeepčoła
