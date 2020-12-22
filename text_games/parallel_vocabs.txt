@@ -65,9 +65,10 @@ Fox faceSul
 BirdJaq'v
 ButterflyC'abruqían
 HoneybeeVarv
+Fish Balur
 
 @EuroMinLang
-Sölring
+Sylt Frisian 
 Dog faceHün
 Cat faceKat
 Mouse faceMüs
@@ -79,6 +80,7 @@ Frog facePor
 Wolf faceUlv
 Fox faceFos
 BirdFügel
+Fish fesk
 ButterflyFlenerk
 HoneybeeEm
 
@@ -426,7 +428,7 @@ Butterflypavël
 Honeybeeef
 
 @Lohrrna
-Lohären
+Lothringian
 Dog face Schin
 Cat face Schätt
 Mouse face Rät
@@ -444,7 +446,7 @@ Horse face Schvà
 Honeybee Muchott
 Butterfly Pàpion
 Deer Cerf
-Lady beetle Bàcèll (also means "girl")
+Lady beetle Bàcèll
 Snake Colyör
 Fish Puchon
 Duck Cänn
@@ -464,6 +466,11 @@ Birdaceddu
 Fishpisci
 Battaddarita
 Antfurmicula
+Cow face vacca
+Fox face vurpi
+Frog face giurana
+Butterfly faffalla
+Honeybee lapa
 
 @EuroMinLang
 Walloon
@@ -479,6 +486,10 @@ Butterflypåwion
 Honeybeemoxhe
 Battchawe-sori
 Spideraraegne
+Rabbit face robete
+Cow face vatche
+Pig face pourcea
+Bear face oûrs'
 
 @EuroMinLang
 Lombard
@@ -565,6 +576,8 @@ Honeybeeavia
 Batrattopennugo
 Lady beetledëdê
 Sharksquæo
+Bird oxello
+Rabbit face coniggio
 
 @EuroMinLang
 Welsh
@@ -1105,7 +1118,7 @@ Fishryba
 Butterflymotýľ
 Honeybeevčela
 
-@google
+@mostaleoht
 Polish
 Dog facepies
 Cat facekot
@@ -1117,8 +1130,8 @@ Pig faceświnia
 Frog faceŻaba
 Wolf facewilk
 Fox facelis
-Birdptaków
-Fishryby
+Birdptak
+Fishryba
 Butterflymotyl
 Honeybeepszczoła
 
@@ -1342,3 +1355,20 @@ Birdptačk
 Fishryba
 Butterflymjetel
 Honeybeepčoła
+
+@mostaleoht
+Kashubian
+Dog facepies
+Cat facekòt
+Mouse facemësz
+Rabbit facetrus
+Bear facemiedwiédz
+Cow facekrowa
+Pig facebùczka
+Frog faceżaba
+Wolf facewilk
+Fox facelës
+Birdptôch
+Fishrëba
+Butterflymòtil
+Honeybeepszczoła
