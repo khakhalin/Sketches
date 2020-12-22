@@ -1,0 +1,874 @@
+@murschetg
+Sulrsilvan
+Dog face Tgaun
+Cat face Gat
+Mouse face Miur
+Rabbit face Cunegl 
+Bear face Uors
+Cow face Vacca
+Pig face Piertg
+Frog face Rustg, Rauna
+Chicken Gaglina
+Baby chick Pluschein
+Bird Utschi
+Wolf face Luf
+Fox face Uolp
+Horse face Cavagl
+Honeybee Aviul
+Butterfly Tschitta, Bélla
+Deer Tscharva
+Lady beetle Bau
+Snake Siarp
+Fish Pesc
+Duck Anda
+Chipmunk Stgirat
+Goat Caura
+
+@loPalAnar
+Lengadocian
+Dog face Can
+Cat face Cat
+Mouse face Rat
+Rabbit face Conilh
+Bear face Ors
+Cow face Vaca
+Pig face Pòrc 
+Frog face Granhòta
+Chicken Galina
+Baby chick Poleton
+Bird Aucèl
+Wolf face Lop
+Fox face Rainal
+Horse face Caval
+Honeybee Abelha
+Butterfly Parpalhòl
+Deer Cèrvi
+Lady beetle Catarineta
+Snake Sèrp
+Fish Peis
+Duck Guit/rit
+Chipmunk Esquiròl
+Goat Cabra
+
+@janavur4
+Aghul
+Dog faceĜíuy
+Cat faceGitan
+Mouse faceQ'íul
+Rabbit faceĜíur
+Bear faceBangiŝ
+Cow faceXíuni
+Pig faceVak'
+Frog faceĜíub
+Wolf faceXhuĉ
+Fox faceSul
+BirdJaq'v
+ButterflyC'abruqían
+HoneybeeVarv
+
+@EuroMinLang
+Sölring
+Dog faceHün
+Cat faceKat
+Mouse faceMüs
+Rabbit faceKanink
+Bear faceBeer
+Cow faceKü
+Pig faceSwin
+Frog facePor
+Wolf faceUlv
+Fox faceFos
+BirdFügel
+ButterflyFlenerk
+HoneybeeEm
+
+@TristanGahus
+Lemosin
+Dog faceChen
+Cat faceChat
+Mouse faceRatona
+Rabbit faceLapin
+Bear faceOrs
+Cow faceVacha
+Pig faceTesson
+Frog faceGalhauda
+Monkey faceMonard
+ChickenPola
+BirdAuseu
+Hatching chickPolicon
+Wolf faceLop
+Fox faceRainard/Volp
+BoarSinglar
+Horse faceChavau
+DeerChabròu
+OtterLoira
+BeaverVibre
+Honeybee'Belha
+ButterflyParpalhòu
+SnailCagolha
+BeetleBarbòta
+Lady beetlePimparòla
+
+@Etrusconissart
+Nissart
+Dog facecan
+Cat facecat
+Mouse facerateta
+Rabbit faceconiu/lapin
+Bear faceors
+Cow facevaca
+Pig facepoarc
+Frog facegranolha
+Chickengalina
+Baby chickpolon
+Birdauceu
+Wolf facelop
+Fox facevorp/reinart
+Horse facecavau
+Honeybeeabelha
+Butterflyparpalhon
+Deercerf/cerva 
+Lady beetlecatarineta
+Snakeserp 
+Fishpei 
+Duckàneda
+Chipmunkesquiròto
+Goataë
+
+@EuroMinLang
+Catalan
+Dog facegos / ca
+Cat facegat / moix
+Mouse faceratolí
+Rabbit faceconill
+Bear faceós
+Cow facevaca
+Pig faceporc
+Frog facegranota
+Wolf facellop
+Fox faceguineu
+Birdocell
+Fishpeix
+Butterflypapallona
+Honeybeeabella 
+
+@SavyRenaud
+Fenouillèdes
+Dog facegos
+Cat facegat
+Mouse facemirga
+Rabbit facelhèbre
+Bear faceors
+Cow facevaca
+Pig facepòrc
+Frog facegranhòta
+Wolf facelhop
+Fox facemandra
+Birdausèl
+Fishpeis
+Butterflyparpalhon
+Honeybeeabelha
+
+@TristanGahus
+Lemosin
+AntFermic
+CockroachFornairon
+Spider'Ranha
+MosquitoMoschilh
+FlyMoscha
+WormVerme
+TurtleTortuja
+SnakeSerp
+FishPeisson
+GoatChabra
+SheepMoton
+BatPissarata
+RoosterJau
+Turkey (bird)Dindaud
+DuckCanard
+OwlChavan
+PeacockPaun
+BadgerTais
+HedgehogEiriçon
+
+@EuroMinLang
+Manx
+Dog facemoddey
+Cat facekayt
+Mouse facelugh
+Rabbit faceconning
+Bear facemaghouin
+Cow facebooa
+Pig facemuc
+Frog facerannag
+Wolf facefilliu / moddey oaldey
+Fox faceshynnagh
+Birdushag
+Fisheeast
+Butterflyfollican
+Honeybeeshellan
+
+@EuroMinLang
+Sardinian
+Dog facecane
+Cat facegatu
+Mouse facetopi
+Rabbit faceconillu
+Bear faceursu
+Cow facebaca
+Pig faceprocu
+Frog facearrana
+Wolf facelupu
+Fox facemaraxani
+Birdpilloni
+Fishpisci
+Butterflymariposa
+Honeybeeabe
+
+@MenydhKernewek
+Kernewek
+Dog face Ki
+Cat face Kath
+Mouse face Rath
+Rabbit face Konin
+Bear face Ors
+Cow face Bugh
+Pig face Hogh
+Frog face Kwilkyn 
+Chicken Yar
+Baby chick Edhen
+Wolf face Bleydh
+Fox face Lowarn
+Horse face Margh
+Honeybee Gwenenen 
+Butterfly Tykki Duw
+Lady beetle Bughik Dhuw
+Snake Sarf
+Fish Pysk
+Duck Hos
+Chipmunk Gwiwer
+Goat Gavver
+Sheep Darras
+Dolphin Morhogh
+Mouse face Logosen
+
+@Tontonig
+Gallo
+Dog face Chen
+Cat face Marcaod
+Mouse face Rat
+Rabbit face Cônin
+Bear face Ourse
+Cow face Beurouze
+Pig face Pourcè
+Frog face Ghernète
+Chicken Jao
+Baby chick Qhuitou
+Bird Ouézè
+Wolf face Loû
+Fox face Renar
+Horse face Cheva
+Honeybee Avète
+Butterfly Papivole
+Deer Cerfe
+Lady beetle Parvole
+Snake Velin
+Fish Paisson
+Duck Canard
+Chipmunk Chat-d'eqhurè
+Goat Biqhe
+
+@Tontonig
+Breton
+Dog face Ki
+Cat face Kazh
+Mouse face Razh
+Rabbit face Konifl
+Bear face Arzh
+Cow face Buoc'h
+Pig face Pemoc'h
+Frog face Ranig
+Chicken Kilhog
+Baby chick Poñsin
+Bird Lapous
+Wolf face Bleiz
+Fox face Louarn
+Horse face Marc'h
+Honeybee Gwenanenn
+Butterfly Balafenn
+Deer Karv
+Lady beetle Buoc'hig-Doue
+Snake Naer
+Fish Pesk
+Duck Houad
+Chipmunk Kazh-koad
+Goat Gavr
+
+@PAlzinaTrullars
+French (big)
+Dog face Chien
+Cat face Chat
+Mouse face Souris
+Rabbit face Lapin
+Bear face Ours
+Cow face Vache
+Pig face Cochon
+Frog face Grenouille
+Chicken Poule
+Baby chick Poussin
+Bird Oiseau
+Wolf face Loup
+Fox face Renard
+Horse face Cheval
+Honeybee Abeille
+Butterfly Papillon
+Deer Cerf
+Lady beetle Coccinelle
+Snake Serpent
+Fish Poisson
+Duck Canard
+Chipmunk Écureuil
+Goat Chèvre
+
+@La_Nusch
+Vallader
+Dog face Chan
+Cat face Giat
+Mouse face Mür
+Rabbit face Cunigl
+Bear face Uors
+Cow face Vacha
+Pig face Chuccal
+Frog face Rana
+Chicken Giallina
+Baby chick Puldschin
+Bird Utschè
+Wolf face Luf
+Fox face Vuolp
+Horse face Chavagl
+Honeybee Aviöl
+Butterfly Splerin
+Deer Tschiervi
+Lady beetle Scarafag
+Snake Serp
+Fish Pesch
+Duck Anda
+Chipmunk Squilat
+Goat Chavra
+
+@ilRossoLuigii
+Saintongeais
+Dog face Chén
+Cat face Maràud/Chat
+Mouse face Rat
+Rabbit face Counin
+Bear face Ours
+Cow face Beù/Vache
+Pig face Gorét
+Frog face Grnelle
+Chicken Jhaù
+Baby chick Pipit
+Bird Osea
+Wolf face Louc
+Fox face Renard
+Horse face Chevaù
+Honeybee Abelle
+Butterfly Parpallun
+Deer Cérfe
+Lady beetle Pibole
+Snake Sérpent
+Fish Poessun
+Duck Canét
+Chipmunk Éçhurou
+Goat Chebre
+
+@filip_enpoint
+Uncroatian
+Dog face Krstičević
+Cat face Rimac
+Mouse face Marić
+Rabbit face Koržinek
+Bear face Medved
+Cow face Petir
+Pig face Šeks
+Frog face Taritaš
+Chicken Žalac
+Baby chick Aladrović
+Bird Grmoja
+Wolf face Bulj
+Fox face Fuchs
+Horse face Škoro
+Honeybee Raspudić
+Butterfly Orešković
+Deer Grmoja
+Lady beetle Benčić
+Snake Krišto
+Fish Selak
+Duck Miletić
+Chipmunk Milanović
+Goat Radman
+
+@jylme
+Meadow Mari
+Dog faceпий
+Cat faceпырыс
+Mouse faceколя
+Rabbit faceмераҥ
+Bear faceмаска
+Cow faceушкал
+Horse faceимне
+Pig faceсӧсна
+Wolf faceпире
+Fox faceрывыж
+Hedgehogшоҥшо
+Birdкайык
+Swanйӱксӧ
+Owlтумна
+Frog faceужава
+Snakeкишке
+Fishкол
+Butterflyлыве
+Honeybeeмӱкш
+Flyкарме
+Antкутко
+Spiderэҥыремыш
+
+@EuroMinLang
+Gardenese
+Dog facecian
+Cat facegiat
+Mouse facesuricia
+Rabbit facecunicio
+Bear facelores
+Cow facevacia
+Pig facepurcel
+Frog facecrot
+Wolf facelëuf
+Fox facebolp
+Birducel
+Fishpësc
+Butterflypavël
+Honeybeeef
+
+@Lohrrna
+Lohären
+Dog face Schin
+Cat face Schätt
+Mouse face Rät
+Rabbit face Läpin
+Bear face Urs
+Cow face Väsch
+Pig face Puchë
+Frog face Goernùi
+Chicken Gēlìn'
+Baby chick Pissin
+Bird Ohë
+Wolf face Lu
+Fox face Rnà
+Horse face Schvà
+Honeybee Muchott
+Butterfly Pàpion
+Deer Cerf
+Lady beetle Bàcèll (also means "girl")
+Snake Colyör
+Fish Puchon
+Duck Cänn
+Chipmunk Ecyron
+Goat Biq
+
+@EuroMinLang
+Sicilian
+Dog facecani
+Cat facejattu
+Mouse facesurci
+Rabbit facecunigghiu
+Bear faceursu
+Pig faceverru
+Wolf facelupu
+Birdaceddu
+Fishpisci
+Battaddarita
+Antfurmicula
+
+@EuroMinLang
+Walloon
+Dog facetchén
+Cat facetchet
+Mouse facesori
+Frog facerinne
+Wolf faceleu
+Fox facerinåd
+Birdoujhea
+Fishpexhon
+Butterflypåwion
+Honeybeemoxhe
+Battchawe-sori
+Spideraraegne
+
+@EuroMinLang
+Lombard
+Dog facecan
+Cat facegat
+Mouse faceratin
+Rabbit facecunili
+Bear faceors
+Cow facevaca
+Pig faceporc
+Frog facerana
+Wolf facelov
+Fox facevolp
+Birdoxell
+Fishpess
+Butterflyparpai
+Honeybeeava
+
+@EuroMinLang
+Neapolitan
+Dog facecano
+Cat facejatta
+Mouse facesórece
+Rabbit facecuniglio
+Bear faceurzo
+Cow facevacca
+Pig facepuorco
+Frog facegranogna
+Wolf facelupo
+Fox facevorpa
+Birdauciello
+Fishpesce
+Butterflypalomma
+Honeybeeapecchia
+
+@EuroMinLang
+Piedmontese
+Dog facecan
+Cat facegat
+Mouse facerat
+Rabbit facecunij
+Bear faceors
+Cow facevaca
+Pig facecrin
+Frog faceran-a
+Wolf faceluv
+Fox facevolp
+Birdosel
+Fishpess
+Butterflyparpajòla
+Honeybeeavija
+
+@EuroMinLang
+Vivaro
+Dog facechan
+Cat facechat
+Mouse facejarri
+Rabbit faceconilh
+Bear faceors
+Cow facevacha
+Pig facepuèrc
+Frog facerana
+Wolf facelop
+Fox facevorp
+Birdaucel
+Fishpèis
+Butterflyparpalhon
+Honeybeeabelha
+
+@EuroMinLang
+Genoese
+Dog facecan
+Cat facegatto
+Mouse faceratto
+Bear faceorso
+Cow facevacca
+Pig facepòrco
+Frog facebaggio
+Wolf facelô
+Fox facevorpe
+Fishpescio
+Butterflyparpaggia
+Honeybeeavia
+Batrattopennugo
+Lady beetledëdê
+Sharksquæo
+
+@EuroMinLang
+Welsh
+Dog faceci
+Cat facecath
+Mouse facellygoden
+Rabbit facecwiningen
+Bear facearth
+Cow facebuwch
+Pig facemochyn
+Frog facebroga
+Wolf faceblaidd
+Fox facecadno
+Birdaderyn
+Fishpysgodyn
+Butterflypili-pala
+Honeybeegwenynwr
+
+@EuroMinLang
+Irish
+Dog facemadra
+Cat facecat
+Mouse faceluch
+Rabbit facecoinín
+Bear facebéar
+Cow facebó
+Pig facemuc
+Frog facefrog
+Wolf facemac tíre
+Fox facesionnach
+Birdéan
+Fishiasc
+Butterflyféileacán
+Honeybeebeach
+
+@LoTresor
+Arpitan
+Dog face chin
+Cat face chat
+Mouse face rat
+Rabbit face counél
+Bear face ôrs
+Cow face vache
+Pig face puerc
+Frog face grenolye
+Wolf face lop
+Fox face renârd
+Bird usél
+Fish pêsson
+Butterfly parpelyon
+Honeybee avelye
+
+@EuroMinLang
+West Frisian
+Dog facehûn
+Cat facekat
+Mouse facemûs
+Rabbit faceknyn
+Bear facebear
+Cow faceko
+Pig faceswyn / baarch
+Frog facekikkert
+Wolf facewolf
+Fox facefoks
+Birdfûgel
+Fishfisk
+Butterflyflinter
+Honeybeebij
+
+@EuroMinLang
+Scots
+Dog facedug
+Cat facecat
+Mouse facemoose
+Rabbit facekinnen
+Bear facebear
+Cow facecoo
+Pig facegryce
+Frog facepuddock
+Wolf facewolf
+Fox facetod
+Birdbird
+Fishfish
+Butterflybutterflee
+Honeybeebee
+
+@EuroMinLang
+Asturian
+Dog facecan
+Cat facegatu
+Mouse faceratu
+Rabbit faceconeyu
+Bear faceosu
+Cow facevaca
+Pig facegochu
+Frog facexaronca
+Wolf facellobu
+Fox faceraposa
+Birdpáxaru
+Fishpex
+Butterflycaparina
+Honeybeeabeya
+
+@EuroMinLang
+Corsican
+Dog facecane
+Cat faceghjattu
+Mouse facetupùcciu
+Rabbit facecunigliu
+Bear faceursu
+Cow facevacca
+Pig faceporcu
+Frog facegranochja
+Wolf facelupu
+Fox facevolpe
+Birdacellu
+Fishpèsciu
+Butterflyfarfalla
+Honeybeeapa
+
+@EuroMinLang
+Cornish
+Dog faceki
+Cat facekath
+Mouse facelogosen
+Rabbit facekonin
+Bear faceors
+Cow facebugh
+Pig facehogh
+Frog facekwilkyn
+Wolf facebleydh
+Fox facelowarn
+Birdedhen
+Fishpysk
+Butterflytykki-Duw
+Honeybeegwenenen
+
+@FalamosN
+Falemos
+Dog faceperru
+Cat facegatu
+Mouse faceratu
+Rabbit faceconexu
+Bear faceosu
+Cow facevaca
+Pig facecochu
+Frog facerana
+Wolf facellobu
+Fox faceraposu
+Birdpáxaru 
+Fishpexe
+Butterflypumarieḷḷa
+Honeybeeabella
+
+@EuroMinLang
+Aragonese
+Dog facecan
+Cat facegato
+Mouse facezorz
+Rabbit faceconello
+Bear faceonso
+Cow facevaca
+Pig facecochín
+Frog facegranota
+Wolf facelupo
+Fox facerabosa
+Birdmuixón
+Fishpeix
+Butterflypaixarela
+Honeybeeabella
+
+@EuroMinLang
+Galician
+Dog facecan
+Cat facegato
+Mouse facerato
+Rabbit facecoello
+Bear faceoso
+Cow facevaca
+Pig faceporco / cocho
+Frog facera
+Wolf facelobo
+Fox faceraposo / golpe
+Birdpaxaro
+Fishpeixe
+Butterflybolboreta
+Honeybeeabella
+
+@EuroMinLang
+Alsatian
+Dog faceHund
+Cat faceKatz
+Mouse faceMüs
+Rabbit faceKengàla
+Bear faceBààr
+Cow faceKüh
+Pig faceSöj
+Frog faceFrosch
+Wolf faceVolf
+Fox faceFuks
+BirdVöjel
+FishFisch
+ButterflySummervogel
+HoneybeeImm
+
+@EuroMinLang
+Luxembourgish
+Dog faceHond
+Cat faceKaz
+Mouse faceMaus
+Rabbit faceKanéngchen
+Bear faceBier
+Cow faceKou
+Pig faceSchwäin
+Frog faceFräsch
+Wolf faceWollef
+Fox faceFuuss
+BirdVillchen
+FishFësch
+ButterflyPäiperlek
+HoneybeeBei
+
+@EuroMinLang
+Basque
+Dog facetxakur
+Cat facekatu
+Mouse facesagu
+Rabbit faceuntxi / lapin
+Bear facehartz
+Cow facebehi
+Pig facetxerri / urde
+Frog faceigel
+Wolf faceotso
+Fox faceazeri
+Birdtxori
+Fisharrain
+Butterflypinpilinpauxa / tximeleta
+Honeybeeerle
+
+@mostaleoht
+Russian (big)
+Dog face собака
+Cat face кошка
+Mouse face мышь
+Rabbit face кролик
+Bear face медведь
+Cow face корова
+Pig face свинья
+Frog face лягушка
+Chicken курица
+Baby chick цыплёнок
+Bird птица
+Wolf face волк
+Fox face лиса
+Horse face лошадь
+Honeybee пчела
+Butterfly бабочка
+Deer олень
+Lady beetle божья коровка
+Snake змея
+Fish рыба
+Duck утка
+Chipmunk бурундук
+Goat коза
+
+@mostaleoht
+English (big)
+Dog face dog
+Cat face cat
+Mouse face mouse
+Rabbit face rabbit
+Bear face bear
+Cow face cow
+Pig face pig
+Frog face frog
+Wolf face wolf
+Fox face fox
+Bird bird
+Fish fish
+Butterfly butterfly
+Honeybee bee
+
