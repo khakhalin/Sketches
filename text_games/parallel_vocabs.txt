@@ -155,7 +155,7 @@ Butterflypapallona
 Honeybeeabella 
 
 @SavyRenaud
-Fenouillèdes Occitan
+Occitan
 Dog facegos
 Cat facegat
 Mouse facemirga
@@ -186,7 +186,6 @@ GoatChabra
 SheepMoton
 BatPissarata
 RoosterJau
-Turkey (bird)Dindaud
 DuckCanard
 OwlChavan
 PeacockPaun
@@ -1376,7 +1375,7 @@ Honeybeepszczoła
 @mostaleoht
 Tatar
 Dog faceэт
-Cat face песи
+Cat face мәче
 Mouse faceтычкан
 Rabbit faceкуян
 Bear faceаю
@@ -1476,7 +1475,7 @@ Honeybee bin
 Fish fish
 
 @uldis_balodis
-Ludza Estonian
+Ludza
 Dog facepini
 Cat facekașș
 Mouse facehīŗ
@@ -1613,3 +1612,105 @@ Birdбурдо
 Fishчорыг
 Butterflyбубыли
 Honeybeeмуш
+
+@mostaleoht
+Ludic
+Dog facekoir
+Cat facekaži
+Mouse facehiir’
+Rabbit facekrolik
+Bear facekondij
+Cow facelehm
+Pig facepočč
+Frog facelötöi
+Wolf facehukk
+Fox facereboi
+Birdlind
+Fishkala
+Butterflyliipoi
+Honeybeemezijaine
+
+@mostaleoht
+Livvic
+Dog facekoiru
+Cat facekaži
+Mouse facehiiri
+Rabbit facekodijänölöi
+Bear facekondii
+Cow facelehmy
+Pig facepočči
+Frog facelöpšöi
+Wolf facehukku
+Fox facereboi
+Birdlindu
+Fishkala
+Butterflyliipoi
+Honeybee mehiläine
+
+@mostaleoht
+Karela
+Dog facekoira
+Cat facekaži
+Mouse facehiiri
+Rabbit facekaniini
+Bear facekarhu
+Cow facelehmä
+Pig facešika
+Frog faceskokuna
+Wolf facehukka
+Fox facerepo
+Birdlintu
+Fishkala
+Butterflyliipukka
+Honeybeemehiläini
+
+@mostaleoht
+Faroese
+Dog facehundur
+Cat faceketta
+Mouse facemús
+Rabbit facekanin
+Bear facebjørn  
+Cow facekúgv
+Pig facesvin
+Frog facefroskur
+Wolf faceúlvur
+Fox facerevur
+Birdfuglur
+Fishfiskur
+Butterflyfirvaldur
+Honeybeebýflugur
+
+@mostaleoht
+Nynorsk
+Dog facehund
+Cat facekatt
+Mouse facemus
+Rabbit facekanin  
+Bear facebjørn  
+Cow faceku  
+Pig facegris
+Frog facefrosk
+Wolf faceulv
+Fox facerev
+Birdfugl
+Fishfisk
+Butterflysommarfugl
+Honeybeebie
+
+@mostaleoht
+Chuvash
+Dog faceйытă
+Cat faceкушак
+Mouse faceшаши
+Rabbit faceкарсак
+Bear faceупа
+Cow faceĕне
+Pig faceсысна
+Frog faceшапа
+Wolf faceкашкăр
+Fox faceтилĕ
+Birdкайăк
+Fishпулă
+Butterflyлĕпĕш
+Honeybeeвĕлле хурчĕ
