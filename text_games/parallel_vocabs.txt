@@ -1487,6 +1487,7 @@ Frog facekunn
 Wolf facesuzi
 Fox facerepäņ
 Birdtsirk
+Fish kala
 Butterflyliblikas
 Honeybeemehine
 
@@ -1503,6 +1504,7 @@ Frog facekūona
 Wolf facesuž
 Fox facerebbi
 Birdlind
+Fish kalā
 Butterflylibālabā
 Honeybeemiedlinki
 
@@ -1536,6 +1538,8 @@ Wolf face wouf
 Fox face vósj
 Butterfly zómmersvleeg
 Honeybee bie
+Fish vès
+Bird vogel
 
 @lezgi
 Lezgian
@@ -1552,6 +1556,7 @@ Fox face Sik
 Bird Kqusch
 Butterfly Tschepelukq
 Honeybee Tschizh
+Fish Gkhed
 
 @ilRossoLuigii
 Poitevin
@@ -1714,3 +1719,37 @@ Birdкайăк
 Fishпулă
 Butterflyлĕпĕш
 Honeybeeвĕлле хурчĕ
+
+@mostaleoht
+Plattdeutsch
+Dog facehund
+Cat facekatt
+Mouse facemuus
+Rabbit faceknien
+Bear facebaar
+Cow facekoh
+Pig faceswien
+Frog facepogge
+Wolf facewulf
+Fox facevoss
+Birdvögel
+Fishfisk
+Butterflyflinderk
+Honeybeeimme
+
+@mostaleoht
+Scottish Gaelic
+Dog facecù
+Cat facecat
+Mouse faceluch
+Rabbit facecoineanach
+Bear facemathan
+Cow facebó
+Pig facemuc
+Frog facelosgann
+Wolf facemadadh-allaidh
+Fox facemadadh-ruadh
+Birdeun
+Fishiasg
+Butterflydealan-dé
+Honeybeeseillean
