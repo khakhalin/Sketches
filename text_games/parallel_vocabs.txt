@@ -389,7 +389,7 @@ Meadow Mari
 Dog faceпий
 Cat faceпырыс
 Mouse faceколя
-Rabbit faceмераҥ
+Rabbit faceкролик
 Bear faceмаска
 Cow faceушкал
 Horse faceимне
@@ -1521,6 +1521,7 @@ Frog facetuosk
 Wolf facewarg
 Fox faceröv
 Birdfugel
+Fish fisk
 Butterflyfyörolder
 Honeybeebi
 
@@ -1589,7 +1590,7 @@ Hill Mari
 Dog faceпи
 Cat faceкоти
 Mouse faceкаля
-Rabbit faceморен
+Rabbit faceкролик
 Bear faceмӧска
 Cow faceышкал
 Pig faceсасна
@@ -1606,14 +1607,14 @@ Udmurt
 Dog faceпуны
 Cat faceкоӵыш
 Mouse faceшыр
-Rabbit faceкеч
+Rabbit face кролик
 Bear faceгондыр
 Cow faceскал
 Pig faceпарсь
 Frog faceбака
 Wolf faceкион
 Fox faceӟичы
-Birdбурдо
+Bird тылобурдо
 Fishчорыг
 Butterflyбубыли
 Honeybeeмуш
@@ -1708,7 +1709,7 @@ Chuvash
 Dog faceйытă
 Cat faceкушак
 Mouse faceшаши
-Rabbit faceкарсак
+Rabbit face кролик
 Bear faceупа
 Cow faceĕне
 Pig faceсысна
@@ -1753,3 +1754,139 @@ Birdeun
 Fishiasg
 Butterflydealan-dé
 Honeybeeseillean
+
+@mostaleoht
+Izhorian
+Dog facekoira
+Cat facekazi
+Mouse facehiir
+Rabbit facekrolik
+Bear facekarhu
+Cow facelehmä
+Pig facesika
+Frog facekonna
+Wolf facesuzi
+Fox facerepoi
+Birdlintu
+Fishkala
+Butterflyunilintu
+Honeybeekimal
+
+@mostaleoht
+Vepps
+Dog facekoir
+Cat facekaži
+Mouse facehir
+Rabbit facekrolik
+Bear facekondi
+Cow facelehm
+Pig facesiga
+Frog facelöc
+Wolf facehändikaz
+Fox facereboi
+Birdlind
+Fishkala
+Butterflylipikaine
+Honeybeemezjaine
+
+@mostaleoht
+Zyryan
+Dog faceпон
+Cat faceкань
+Mouse faceшыр
+Rabbit faceкролик
+Bear faceош
+Cow faceмӧс
+Pig faceпорсь
+Frog faceлягуша
+Wolf faceкӧин
+Fox faceруч
+Birdлэбэч
+Fishчери
+Butterflyбобув
+Honeybeeмазі
+
+@mostaleoht
+Perm
+Dog faceпон
+Cat faceкань
+Mouse faceшыр
+Rabbit faceкролик
+Bear faceош
+Cow faceмӧс
+Pig faceпорсь
+Frog faceлягушка
+Wolf faceкӧин
+Fox faceруч
+Birdкай
+Fishчери
+Butterflyбабыв
+Honeybeeмош
+
+@mostaleoht
+Moksha
+Dog faceпине
+Cat faceката
+Mouse faceшеер
+Rabbit faceкуднумол
+Bear faceофта
+Cow faceтракс
+Pig faceтува
+Frog faceватракш
+Wolf faceвърьгаз
+Fox faceкелазь
+Birdнармонь
+Fishкал
+Butterflyмелав
+Honeybeeмеш
+
+@mostaleoht
+Erzya
+Dog faceкиска
+Cat faceкатка
+Mouse faceчеерь
+Rabbit faceкудонумуло
+Bear faceовто
+Cow faceскал
+Pig faceтуво
+Frog faceватракш
+Wolf faceверьгиз
+Fox faceривезь
+Birdнармунь
+Fishкал
+Butterflyнимиляв
+Honeybeeмекш
+
+@mostaleoht
+Gutnish
+Dog facehund
+Cat facekatt
+Mouse facemus
+Rabbit facerabbis
+Bear facebjånn
+Cow faceko
+Pig facegreis
+Frog facegrode
+Wolf faceulv
+Fox faceräv
+Birdfäugel
+Fishfisk
+Butterflysummafäugel
+Honeybeebei
+
+@mostaleoht
+Rusyn
+Dog faceпес
+Cat faceмачка
+Mouse faceмыш
+Rabbit faceтрусь
+Bear faceмедвідь
+Cow faceкорова
+Pig faceсвиня
+Frog faceжаба
+Wolf faceвовк
+Fox faceлишка
+Birdптах
+Fishрыба
+Butterflyмотыль
+Honeybeeпчола
