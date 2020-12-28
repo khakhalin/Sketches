@@ -1890,3 +1890,37 @@ Birdптах
 Fishрыба
 Butterflyмотыль
 Honeybeeпчола
+
+@mostaleoht
+Vadda
+Dog facekoira
+Cat facekatti
+Mouse faceiiri
+Rabbit facekani
+Bear facekaru
+Cow facelehmä
+Pig facesika
+Frog facekonna
+Wolf facesusi
+Fox facerepo
+Birdlintu
+Fishkala
+Butterflyliipo
+Honeybeecimolain
+
+@mostaleoht
+Plautdietsch
+Dog facehunt
+Cat facekaut
+Mouse facemus
+Rabbit facekanienkje
+Bear faceboa
+Cow facekoo
+Pig faceschwien
+Frog facepogg
+Wolf facewulf
+Fox facefoss
+Birdvoagel
+Fishfesch
+Butterflysommavoagel
+Honeybeebie
