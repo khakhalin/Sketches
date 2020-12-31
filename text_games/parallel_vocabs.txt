@@ -664,23 +664,6 @@ Butterflybutterflee
 Honeybeebee
 
 @EuroMinLang
-Asturian
-Dog facecan
-Cat facegatu
-Mouse faceratu
-Rabbit faceconeyu
-Bear faceosu
-Cow facevaca
-Pig facegochu
-Frog facexaronca
-Wolf facellobu
-Fox faceraposa
-Birdpáxaru
-Fishpex
-Butterflycaparina
-Honeybeeabeya
-
-@EuroMinLang
 Corsican
 Dog facecane
 Cat faceghjattu
@@ -697,22 +680,22 @@ Fishpèsciu
 Butterflyfarfalla
 Honeybeeapa
 
-@FalamosN
-Falemos
-Dog faceperru
+@EuroMinLang
+Asturian
+Dog facecan
 Cat facegatu
 Mouse faceratu
-Rabbit faceconexu
+Rabbit faceconeyu
 Bear faceosu
 Cow facevaca
-Pig facecochu
-Frog facerana
+Pig facegochu
+Frog facexaronca
 Wolf facellobu
-Fox faceraposu
-Birdpáxaru 
-Fishpexe
-Butterflypumarieḷḷa
-Honeybeeabella
+Fox faceraposa
+Birdpáxaru
+Fishpex
+Butterflycaparina
+Honeybeeabeya
 
 @EuroMinLang
 Aragonese
@@ -1892,7 +1875,7 @@ Butterflyмотыль
 Honeybeeпчола
 
 @mostaleoht
-Vadda
+Votic
 Dog facekoira
 Cat facekatti
 Mouse faceiiri
@@ -1924,3 +1907,122 @@ Birdvoagel
 Fishfesch
 Butterflysommavoagel
 Honeybeebie
+
+@mostaleoht
+Latgalian
+Dog facesuņs
+Cat facekakis
+Mouse facepele
+Rabbit facetrusis
+Bear faceluocs 
+Cow facegūvs 
+Pig facecyuka
+Frog facevarde
+Wolf facevylks
+Fox facelopsa
+Birdputnys
+Fishzivs
+Butterflytauriņs
+Honeybeebite	
+
+@mostaleoht
+Voro
+Dog facepini
+Cat facekasś
+Mouse facehiiŕ
+Rabbit facekodojänes
+Bear facekahr
+Cow facelehm
+Pig facetsiga
+Frog facekunn
+Wolf facesusi
+Fox facerepäń
+Birdtsirk
+Fishkala
+Butterflyliblik
+Honeybeemehiläne
+
+@mostaleoht
+Inari Saami
+Dog facepeenuv
+Cat facekissá
+Mouse facesäplig
+Rabbit face
+Bear facekuobžâ
+Cow facekussâ
+Pig facešahe
+Frog facecuábui
+Wolf facekumppi
+Fox faceriemnjis
+Birdlodde
+Fishkyeli
+Butterflypiäivááloddááš
+Honeybeemietâmiäđušijn
+
+@mostaleoht
+North Saami
+Dog facebeana
+Cat facebussá
+Mouse facesáhpán
+Rabbit face
+Bear faceguovža
+Cow facegussa
+Pig facespiidni
+Frog facecuoppu
+Wolf facegumpe
+Fox facerieban
+Birdloddi
+Fishguolli
+Butterflybeaiveloddi
+Honeybee
+
+@mostaleoht
+Skolt Saami
+Dog facepiânnai
+Cat facekaass
+Mouse facesäʹppli
+Rabbit face
+Bear facekuõbǯǯ
+Cow facekuss
+Pig facešââʹǩǩ
+Frog facecuâbb
+Wolf facekuʹmpp
+Fox facerieʹmjj
+Birdlåʹdd
+Fishkueʹll
+Butterflypeiʹvvlååddaž
+Honeybeemiõttsaž
+
+@mostaleoht
+Nenets
+Dog faceвэʼ
+Cat face
+Mouse faceпися
+Rabbit face
+Bear faceварк
+Cow faceхорова
+Pig faceпарасьʼ
+Frog faceтямдэˮ
+Wolf faceсармик
+Fox faceтёня
+Birdтиртя
+Fishхаля
+Butterflyлэмборо
+Honeybeeюритей
+
+@mostaleoht
+Romani
+Dog facedžukel
+Cat facemačka
+Mouse facečuhi
+Rabbit facešošoj
+Bear faceričh
+Cow facegurumňi 
+Pig facebálo
+Frog facežamba
+Wolf faceruv
+Fox facelisa
+Birdčiriklo
+Fishmaćho
+Butterflylepetka
+Honeybeeberveli
