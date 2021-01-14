@@ -358,32 +358,6 @@ Duck Anda
 Chipmunk Squilat
 Goat Chavra
 
-@ilRossoLuigii
-Saintongeais
-Dog face Chén
-Cat face Maràud/Chat
-Mouse face Rat
-Rabbit face Counin
-Bear face Ours
-Cow face Beù/Vache
-Pig face Gorét
-Frog face Grnelle
-Chicken Jhaù
-Baby chick Pipit
-Bird Osea
-Wolf face Louc
-Fox face Renard
-Horse face Chevaù
-Honeybee Abelle
-Butterfly Parpallun
-Deer Cérfe
-Lady beetle Pibole
-Snake Sérpent
-Fish Poessun
-Duck Canét
-Chipmunk Éçhurou
-Goat Chebre
-
 @jylme
 Meadow Mari
 Dog faceпий
@@ -2042,4 +2016,4 @@ Fox facerepän
 Birdtsirk
 Butterflyliblik
 Honeybeemehin
-Fish kala
+Fish kala	
