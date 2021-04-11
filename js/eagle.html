@@ -1,0 +1,51 @@
+<html>
+<head>
+	<style>
+		#first {
+			width: 400px;
+			animation: move1 4s infinite linear;		
+		}
+		
+		@keyframes move1 {
+		  0% {
+			transform: translateX(0) translateY(0) rotate(0) scale(1);
+			opacity: 100%;
+		  }
+		  70% {
+			transform: translateX(609%) translateY(160%) rotate(23deg) scale(14.4);
+			opacity: 100%;
+		  }
+		  100% {
+			transform: translateX(609%) translateY(160%) rotate(23deg) scale(14.4);
+			opacity: 0%;
+			}
+		}
+		
+		#second {			
+			width: 400px;
+			z-index: -1;
+			position: absolute;
+			left: 0;
+			animation: move2 4s infinite linear;
+		}
+		
+		@keyframes move2 {
+		  0% {
+			// transform: translateX(-300px) translateY(550px) rotate(-23deg) scale(0.069);
+			opacity: 0%;
+		  }
+		  70% {opacity: 0%}
+		  100% {
+			// transform: translateX(0) translateY(0) rotate(0) scale(1);
+			opacity: 100%;
+		  }
+		}
+	</style>
+	<script>
+	</script>
+</head>
+<body>
+	<img id="first" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg"/>
+	<img id="second" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg"/>
+</body>
+</html>
