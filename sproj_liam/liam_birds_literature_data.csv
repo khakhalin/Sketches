@@ -1,0 +1,53 @@
+keyword,,no keyword,Bicknell's Thrush,Cooper's Hawk,King Rail,Short-eared Owl,Common Nighthawk,Mute Swan,Loggerhead Shrike,Snowy Owl,Horned Lark,Double-crested Cormorant,American Kestrel,Osprey,Blue Jay,Bald Eagle,Ruby-throated Hummingbird,Wild Turkey
+,search term,N/A,Catharus bicknelli,Accipiter cooperii,Rallus elegans,Asio flammeus,Chordeiles minor,Cygnus olor,Lanius ludovicianus,Bubo scandiacus,Eremophila alpestris,Phalacrocorax auritus,Falco sparverius,Pandion haliaetus,Cyanocitta cristata,Haliaeetus leucocephalus,Archilochus colubris,Meleagris gallopavo
+no keyword,N/A,,120,242,97,210,141,177,202,41,167,456,472,422,540,614,172,620
+black bear,Ursus americanus,929,8,40,8,25,21,10,22,6,29,12,38,47,40,82,17,123
+bobcat,Lynx rufus,480,6,44,7,21,14,13,16,3,27,21,41,41,26,61,15,70
+chipmunk,Tamias striatus,746,4,43,7,15,10,8,15,6,12,11,41,25,73,43,20,77
+copperhead snake,Agkistrodon contortrix,104,1,10,3,5,3,4,3,0,3,0,8,9,4,11,0,5
+cougar,Puma concolor,333,1,12,3,7,7,3,9,2,7,6,25,26,7,34,2,35
+coyote,Canis latrans,1060,5,44,8,27,24,15,24,6,33,14,45,41,40,74,18,101
+deer,Odocoileus virginianus,2740,10,50,23,41,24,22,28,7,37,39,68,67,91,117,26,219
+red fox,Vulpes vulpes,1170,7,47,15,32,18,23,20,7,36,21,52,47,43,94,12,100
+grey fox,Urocyon cinereoargenteus,475,6,34,5,17,15,8,14,2,28,12,29,28,27,45,9,63
+groundhog,Marmota monax,531,2,29,7,15,12,7,11,2,26,6,25,15,34,40,16,69
+little brown bat,Myotis lucifugus,590,6,39,8,19,20,9,13,2,29,17,36,35,24,50,9,23
+moose,Alces alces,762,12,10,4,10,7,3,5,3,9,11,15,27,13,55,4,47
+opossum,Didelphis virginiana,476,1,33,6,11,7,15,10,2,9,11,27,23,34,44,8,57
+rabbit,Sylvilagus floridanus,531,3,31,7,20,10,6,11,1,27,10,34,27,55,47,17,79
+raccon,Procyon lotor,1570,7,74,20,45,22,27,34,7,39,49,90,77,82,107,25,165
+rat,Rattus norvegicus,856,2,28,3,16,8,16,5,4,9,13,26,26,19,37,2,34
+skunk,Mephitis mephitis,693,7,42,9,32,26,12,32,3,33,12,57,38,58,57,12,88
+squirrel,Sciurus carolinensis,622,2,45,5,20,15,15,15,6,25,15,37,28,65,55,18,104
+timber rattlesnake,Crotalus horridus,305,4,30,11,28,24,6,10,0,10,6,25,34,23,48,5,29
+wolf,Canis lupus,1130,5,23,5,20,11,10,18,6,11,11,28,39,19,71,5,85
+american beech,Fagus grandifolia,2330,27,40,2,24,31,10,9,1,23,7,37,35,73,49,34,75
+balsam fir,Abies balsamea,1630,51,7,1,2,6,3,2,1,0,0,8,11,23,28,9,17
+black cherry,Prunus serotina,1640,6,30,2,17,15,9,2,1,9,8,34,37,45,34,18,52
+bur oak,Quercus macrocarpa,399,1,4,1,3,3,1,3,0,3,1,3,4,23,4,6,8
+goldenrod,Solidago gigantea,131,0,2,0,0,1,1,0,0,2,1,2,2,3,2,3,1
+hemlock,Tsuga canadensis,2320,16,36,4,13,22,8,11,2,10,6,29,26,58,43,18,50
+northern red oak,Quercus rubra,2430,9,26,3,9,8,5,5,1,9,7,22,21,52,34,11,47
+northern white cedar,Thuja occidentalis,1020,8,8,3,5,8,1,8,0,2,5,7,20,20,25,9,16
+oxeye daisy,Leucanthemum vulgare,154,0,1,1,3,0,0,0,0,1,0,3,0,2,0,1,1
+quaking aspen,Populus tremuloides,1740,8,35,2,11,29,2,4,0,11,6,36,33,47,44,23,43
+red elderberry,Sambucus racemosa,170,1,0,0,0,0,0,0,0,0,1,0,0,2,3,1,0
+red maple,Acer rubrum,4170,26,41,9,23,21,11,10,0,24,12,31,41,68,55,22,62
+red spruce,Picea rubens,1150,27,6,2,3,7,1,2,1,4,0,6,10,15,25,8,15
+sugar maple,Acer saccharum,2980,26,28,2,9,15,7,11,0,23,4,23,25,46,39,21,43
+thistle,Cirsium altissimum,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+viburnum,Viburnum acerifolium,268,0,5,1,1,3,1,3,0,1,1,3,1,11,4,5,23
+virginia rose,Rosa virginiana,66,0,0,0,1,0,1,0,0,0,1,1,2,1,1,0,0
+white ash,Fraxinus americana,1870,5,26,2,7,10,4,4,0,11,5,28,12,42,23,12,41
+white oak,Quercus alba,1470,3,28,3,8,8,5,7,0,24,7,17,23,39,31,9,38
+white pine,Pinus strobus,2700,12,44,6,15,21,8,11,2,25,6,36,50,61,53,22,50
+white spruce,Picea glauca,1080,9,7,0,5,6,0,2,0,4,0,6,9,18,11,12,13
+yellow birch,Betula alleghaniensis,1200,25,10,2,5,6,1,2,1,5,1,8,11,33,29,6,29
+predation,predation,15300,41,119,39,112,74,62,86,22,81,255,210,193,176,249,65,193
+predator,predator,16500,43,94,21,81,49,49,60,21,57,195,194,177,137,224,45,149
+herbivory,herbivory,3250,8,11,6,8,6,24,5,2,6,6,13,25,23,34,9,25
+pollination,pollination,9150,5,12,1,5,11,6,8,3,7,3,24,29,23,37,22,31
+decomposition,decomposition,26100,24,30,8,29,9,22,10,6,23,40,48,64,49,75,7,57
+browsing,browsing,9000,10,24,5,16,7,8,7,3,10,6,17,26,37,38,9,40
+primary production,primary production,4580,2,23,6,12,9,12,7,1,4,37,10,40,6,42,8,5
+water,water,704000,73,183,94,158,118,150,139,27,132,408,384,372,369,525,132,455
