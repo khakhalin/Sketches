@@ -50,11 +50,11 @@ Once the agent is coding, you have to sit there and stare at its thinking trace.
 
 Once the agent is done, and you got the code, go through every line. Read every line! Check for these common mistakes that AI is still prone to:
 
-1. Make sure it didn't re-implement something that is already available, either as a standard functionality in a standard tool, or as an existing helper method in the repo. As agent has no memory from the repo, it is at mercy of our `agents.md`, documentation, and limited code exploration, in terms of learning what is already available.
-2. Conversely, don't let it install and import new packages unless you believe it's needed. Newer models do it less often, but sometimes they still try to help a bit too radically.
-3. Make sure it didn't try to improve the code you didn't ask it to improve - these "passing by" casual improvements are always more risky than the main task
-4. Don't let it remove or radically rewrite older comments left in the code. Sometimes it gets carried away.
-5. Agents have a tendency to overemphasize their recent experiences: e.g. if they made a mistake, and you correct it in the chat, they may try to mention this mistake and its correction very specifically in the comments within the code, or in the documents. For you it's just a tiny thing that happened in the latest 5 min of your multi-decade life, but for them it's 30% of their entire window content. Don't let the agent overshare these minutiae, it is not helpful.
+1. Make sure it didn't re-implement something that is already available, either as a standard functionality in a standard tool, or as an existing helper method in the repo. As the agent is not a whale, and it cannot ingest the entire repo in one go, it is at mercy of our `agents.md`, documentation, and limited code exploration that it will perform based on your prompt and the context. If some functionality is there, but is hidden just a little too well, it may not ever discover it.
+2. Conversely, don't let it install and import new packages unless you believe it's needed. Newer models do it less often, but sometimes they still try to help a bit too radically (especially when frustrated with how the coding goes).
+3. Make sure it didn't try to improve the code you didn't ask it to improve - these "passing by" casual improvements are always more risky than the main task, as neither of you has the context
+4. Don't let it remove or radically rewrite older comments left in the code. Sometimes it gets carried away like that.
+5. Agents have a tendency to overemphasize their recent experiences: e.g. if they made a mistake, and you corrected it in the chat, they may try to mention this mistake and its correction very specifically in the comments within the code, or in the documents. For you it's just a tiny thing that happened in the latest 5 min of your multi-decade life, but for them it's 30% of their entire window content. Don't let the agent overshare these minutiae, it is not helpful.
 
 # Advanced Topics
 
