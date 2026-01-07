@@ -8,19 +8,19 @@ The most important file to keep an eye on is [`agents.md`](https://agents.md/) i
 
 - 2-3 lines about what the project is actually doing
 - Architecture overview, listing key functionalities, and names of key classes that support these functionalities. You want the agent to be able to `grep` them to quickly orient itself in the code.
-- Key concepts, non-trivial assumptions, technical decisions, important information. Libraries that are used bo the project and that need to be kept in mind, but that are not imported in every file.
-- Anything critical that is impossible to understand from the code alone (external infrastructure, the size and properties of the data)
-- Explanations for all abbreviations and special terms used for variable names, classes, and comments, if they are non-standard or are used idiosyncratically (e.g. if in your project `tmp` consistently means `task management payload`, you need to tell it here)
+- Key concepts, critical information, non-trivial assumptions, technical decisions, names of libraries that are used in the project but are not imported in every file.
+- Anything critical that is impossible to understand from the code alone (external infrastructure, the size and properties of the data etc.)
+- Explanations for all the abbreviations and special terms that are used in the project as parts of variable names, classes, or comments, especially if they are non-standard or are used idiosyncratically (e.g. if within your project `tmp` consistently means `task management payload`, you'd better write it here!)
 - Commands (how to run tests, how to run linter formatter etc.)
-- Boundaries and rules. Try to formulate these as DOs and not DoNots, as positive language matters for agents! Describe what needs to be true, what needs to always be done; use simple, clear, declarative language. Some examples of what could go there:
-  - Prefer pythonic `a.field` to getters `get(a, 'field', None)`; validate with `if hasattr(a, 'field')` if necessary (code style)
+- Boundaries and rules. Try to formulate these as DOs rather than DoNots, as agents are more likely to follow positive language. Give them a pep talk! Describe what needs to be true, what needs to always be done; use simple, clear, declarative language. Some examples of what could go there:
+  - Prefer pythonic `a.field` to getters `get(a, 'field', None)`; validate with `if hasattr(a, 'field')` if necessary
   - Don't use defensive checks in the main code to handle incomplete test environments; use mocks and fixtures instead  
-  - During development, call `uv run pytest -m fast` often. Once these test work, also run `uv run pytest -m slow`, then `make format`, then make sure `uv run myproject -k 100` outputs current time (rules of development)
-  - Don't try to improve the wording of comments and loggers, unless they are no longer true
+  - During development, call `uv run pytest -m fast` often. Once these test work, also run `uv run pytest -m slow`, then `make format`, then make sure `uv run myproject -k 100` outputs current time
+  - Preserve the wording of existing comments and loggers, unless they are no longer true
 
-The `agents.md` file should be concise and efficient as it is attached to _every session_! Ideally make it fit into one page. For the technical overview, you can try to start with a longer text and ask the agent to compress and distill it, although for now agents are not particularly good at distillations, and tend to go too heavy on diagrams. Edit it with your hands. Return to this file often. This is the most important file of your repo! Keep it updated.
+The `agents.md` file should be concise and efficient as it is attached to _every session_! Ideally make it fit into one page. For the technical overview part, you can try to start with a longer text and ask the agent to compress and distill it, although to be honest agents are not particularly good at one-shot distillation. It's better to edit the overview manually. Return to this file often. This is the most important file of your repo! Keep it updated.
 
-After every productive session in which the agent hesitated, or explored the code for longer than usual, or where you had an usual friction that required your intervention, think whether somthint needs to be changed or added to `agents.md`. If you feel that it needs to be updated, try to update it. But also **beware** that this file should be short and dense, every token should matter, precisely because it is added to every session, taking space in the context window. At some point, if there's something critical to add, something less critical may have to go. Treat `agents.md` as meta-code of sorts; review the PRs that change it as critically as you would review a code change!
+After every productive session in which the agent hesitated, or explored the code for longer than usual, or where you had an usual friction that required your intervention, think whether something needs to be changed or added to `agents.md`. If you feel that it needs to be updated, try to update it. But also **beware** that this file should be short and dense: every token should matter! At some point, if there's something critical to add, something less critical may have to go. Treat `agents.md` as meta-code of sorts; review the PRs that change it as critically as you would review a code change!
 
 ## Running the session
 
