@@ -4,7 +4,7 @@ This guide will help you work productively with AI coding assistants (like GitHu
 
 ## The Constitution: agents.md
 
-The most important file to keep an eye on is `[agents.md](https://agents.md/)` in the repository root. This file acts as a "constitution" for AI agents unleashed on the project, and it is automatically added to the context of any new chat. It should contain:
+The most important file to keep an eye on is [`agents.md`](https://agents.md/) in the repository root. This file acts as a "constitution" for AI agents unleashed on the project, and it is automatically added to the context of any new chat. It should contain:
 
 - 2-3 lines about what the project is actually doing
 - Architecture overview, listing key functionalities, and names of key classes that support these functionalities. You want the agent to be able to `grep` them to quickly orient itself in the code.
