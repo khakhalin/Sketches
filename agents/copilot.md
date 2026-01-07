@@ -81,14 +81,14 @@ Crucially, _start a new session_ for each new step, then reference the files you
 
 Recently a new approach to developing with agent was proposed, that is sometimes referred to as **Iterative Adversarial Refinement** [ref1](https://gist.github.com/dollspace-gay/45c95ebfb5a3a3bae84d8bebd662cc25), [ref2](https://github.com/oaustegard/claude-skills/releases?q=crafting-instructions&expanded=true). In this process, you start with following through the steps described above, but then, once everything is implemented, you add an extra step:
 
-* Do a git diff between this branch and `main` branch. Pretend you're a senior dev doing a code review and you HATE this implementation. Does it even work? Are the requirements satisfied? Are the tests good? Are there any missed edge cases, vulnerabilities, code smells? Is it performant? Is it well designed? Will it be easy to maintain in the long-term? Be tough but fair; if something is good, acknowledge it, but concentrate on weak points. For weaknesses, be reserved and practical: explain why it is bad, then outline the direction of the change, fix, or alternative. Lead with the hardest critiques. Output your analysis to NEWFILE.md
+* Do a git diff between this branch and `main` branch. Pretend you're a senior dev doing a code review and you HATE this implementation. Does it even work? Are the requirements satisfied? Are the tests good? Are there any missed edge cases, vulnerabilities, code smells? Is it performant? Is it well designed? Will it be easy to maintain in the long-term? Be tough but fair; if something is good, acknowledge it, but concentrate on weak points. For weaknesses, be reserved and practical: explain why it is bad, then outline the direction of the desired change (what should we do to fix the problem). Lead with the hardest critiques. Output your analysis to NEWFILE.md
 
 Once you receive the critique, analyze it. Classify all identified weaknesses into four groups:
 
 1. Critiques that are not true because the agent doesn't know something that you know (external limitations, future plans etc.)
 2. Critiques with which you disagreee because they are silly, outright hallucinated, or that disagree with your personal taste
-3. When 2-3 competing designs are possible, and after you decided to try design A, an attempt to move to an alternative B or C, just because it is different (also possible, and about equally bad, but different)
-4. Legitimate critique with which you agree
+3. When 2-3 competing designs are possible, and neither of them is ideal, the critic agent would be likely to advertise for B if you picked A, and vice versa. It may be right. Or it may be wrong. It's for you to decide!
+4. Legitimate critiques with which you agree
 
 Pick 1-2 legitimate critiques, and ask the agent to implement them. **Then repeat this step!** Keep repeating this until you no longer have anything in category (4): that is, until all critiques are fake or untrue.
 
