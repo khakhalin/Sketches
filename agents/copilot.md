@@ -22,7 +22,7 @@ For an existing repo, the `agents.md` file should contain:
 
 My typical rules from a typical `agents.md`:
 
-``Markdown
+```
 # Rules (Mandatory)
 1. Never assume you have complete information. Start by seeking information you lack!
 2. Get background info: Find matching topics in the list below, `read` referenced files,
@@ -42,7 +42,7 @@ My typical rules from a typical `agents.md`:
 
 The most interesting part of this prompt is the second point: the invitation for the agent to seek information proactively. For it to work, you follow the `Rules` section with the following section:
 
-```Markdown
+```
 # Lookup by Topic
 
 ## Schemas, Data Engineering
