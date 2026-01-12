@@ -22,15 +22,21 @@ For an existing repo, the `agents.md` file should contain:
 
 My typical rules from a typical `agents.md`:
 
-```Markdown
+``Markdown
 # Rules (Mandatory)
 1. Never assume you have complete information. Start by seeking information you lack!
-2. Get background info: Find matching topics in the list below, `read` referenced files, and `grep` key tokens to learn more
+2. Get background info: Find matching topics in the list below, `read` referenced files,
+   and `grep` key tokens to learn more
 3. For design tasks, always check @docs/index.md and @overview.md
-4. After reading, generate a plan of actions. For large tasks, offer 2-5 options, provide pros and cons, indicate your preference. Pause and ask for input.
-5. Prefer pythonic `a.field` to getters like `get(a, 'field', None)`; validate with `if hasattr(a, 'field')` if necessary
-6. Don't use defensive checks in the main code to handle incomplete test environments; use mocks and fixtures instead
-7. During development, call `uv run pytest -m fast` often. Once these tests work, run `uv run pytest -m slow`, then `make format`, then make sure `uv run myproject -k 10` converges
+4. After reading, generate a plan of actions. For large tasks, offer 2-5 options, provide
+   pros and cons, indicate your preference. Pause and ask for input.
+5. Prefer pythonic `a.field` to getters like `get(a, 'field', None)`; validate with
+   `if hasattr(a, 'field')` if necessary
+6. Don't use defensive checks in the main code to handle incomplete test environments;
+   use mocks and fixtures instead
+7. During development, call `uv run pytest -m fast` often. Once these tests work, run
+   `uv run pytest -m slow`, then `make format`, then make sure `uv run myproject -k 10`
+   converges
 8. Preserve the wording of existing comments and loggers, unless they are no longer true.
 ```
 
@@ -62,7 +68,19 @@ But at the same time, return to this file often. This is the most important file
 4. Type a good first prompt. Here's an imaginary attempt at writing a "one-shot" prompt:
 
 ```
-We need to add a new transformer to the `UsefulTransformers` class. The context for this change is that we need to support a special case where the field `global_time` is not available. We need to make sure the transformer can handle this, while satisfying API calls from `Separator` classes. Please read the file #file:summary.md for general info, then check out the code in files #file:code1.py, #file:code2.py, and #file:code3.py. Dig into the raw code of WeirdCustomPackage to check how the base class for `wcp.transformers.transformer` works. Finally, read the test #file:test_code1.py as we'll need to make sure it is still running. The original DoD for this change is copied below. Once you have read everything, come up with 2-3 options for how to design it, and output them in chat (outline pros and cons and indicate your personal preference); I will instruct you on which design to implement. If you are missing any information, please ask. _(followed by an empty line, a sequence of --- to mark the start of a quotation, and a simple Ctrl-V or DoD from Jira, or some dump of design notes that you may have)_
+We need to add a new transformer to the `UsefulTransformers` class. The context for
+this change is that we need to support a special case where the field `global_time`
+is not available. We need to make sure the transformer can handle this, while satisfying
+API calls from `Separator` classes. Please read the file #file:summary.md for general
+info, then check out the code in files #file:code1.py, #file:code2.py, and #file:code3.py.
+Dig into the raw code of WeirdCustomPackage to check how the base class for `wcp.transformers.
+transformer` works. Finally, read the test #file:test_code1.py as we'll need to make sure
+it is still running. The original DoD for this change is copied below. Once you have read
+everything, come up with 2-3 options for how to design it, and output them in chat (outline
+pros and cons and indicate your personal preference); I will instruct you on which design to
+implement. If you are missing any information, please ask. _(followed by an empty line, a
+sequence of --- to mark the start of a quotation, and a simple Ctrl-V or DoD from Jira, or
+some dump of design notes that you may have)_
 ```
 
 As you can see, a good prompt is rather complex. It contains:
