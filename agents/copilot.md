@@ -10,8 +10,8 @@ For an existing repo, the `agents.md` file should contain:
 
 - 2-3 sentences that tell what this project is actually doing (the motivation, the human context behind the code)
 - Architecture overview, listing key functionalities, and the names of key classes supporting these functionalities. In general, there are two ways to orient the agent within the project:
-  - We can reference an existing file using `@filename` (if the file is unique) or `/dir/dir/filename` (starting from the repo root) if it's not. Technically `@` referencing is [Anthropic syntax](https://platform.claude.com/docs/en/build-with-claude/files), while Copilot [claims](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context) to be using `#` referencing in the chat, but `@ `
-  - We can name the class or the method, hoping that the agent would `grep` it (nore on it below)
+  - We can and should reference existing files. We can either mention the file like this: `file.py` or list the entire content of a folder like this: @folder/ (read more on the `@` syntax below)
+  - We can also name the class or the method, hoping that the agent would `grep` it (more on this, below)
 - List some key concepts, critical information, non-trivial assumptions, technical decisions, names of libraries that are used in the project but are not imported in every file. Everything that could help.
 - Any critical info that is impossible to understand from the code alone: the size and properties of your data, your tech stack and external infrastructure (just list 4-5 keywords), etc.
 - Explanations for all the abbreviations and special terms that are used in the project, either as parts of variable names, classes, or comments, _especially_ if they are non-standard or are used idiosyncratically. For example, if within your project `tmp` consistently means `task management payload`, you'd better write it here! Otherwise the agent will try to guess the names of variables, and will do it incorrectly.
@@ -27,7 +27,7 @@ My typical rules from a typical `agents.md`:
 > 1. Never assume you have complete information. Start by seeking information you lack!
 > 2. Get background info: Find matching topics in the list below, `read` referenced files,
    and `grep` key tokens to learn more
-> 3. For design tasks, always check @docs/index.md and @overview.md
+> 3. For design tasks, always check `docs/index.md` and `overview.md`
 > 4. After reading, generate a plan of actions. For large tasks, offer 2-5 options, provide
    pros and cons, indicate your preference. Pause and ask for input.
 > 5. Prefer pythonic `a.field` to getters like `get(a, 'field', None)`; validate with
@@ -43,7 +43,7 @@ The most interesting part of this prompt is the second point: the invitation for
 # Lookup by Topic
 
 ## Schemas, Data Engineering
-read: @data_engineering.md
+read: data_engineering.md
 grep: ingester, schema_validator
 
 ## Performance, Spark
@@ -52,6 +52,8 @@ grep: break_dag, repartition
 ```
 
 ...and so on. Basically, you give your agent a dictionary that maps PR topics, human concepts, and local jargon of the team to key elements of the repo. By doing so, we model _Progressive Disclosure_, giving the agent a way to request information as it is needed, instead of forcing it to read the entire documentation at once. Both the keywords and the greppable terms should loosely follow the TF-IDF logic: we want sticky texts that work (that would grasp the agent's attention), and entry points that are efficient. If we hit this balance, the agent will always react as if it is familiar with the repo, which is frankly a bizarre, almost unsettling experience!
+
+A note on referencing. Anthropic also has [another way](https://platform.claude.com/docs/en/build-with-claude/files) of referencing files that uses the `@` symbol, but with this approach the contents of the file is _fully included_ into your prompt (attached to it, not interpolated), and it happens before tokenization! This logic is applied to chat messages, and to `agents.md`, but not to files loaded with `@`, so there is no infinite recursion. When referencing with `@` you can just write `@file_name` if the file name is unique, or give a path from the root folder `@src/tools/file_name.py` if it's not. But either way, a full inclusion rule means that trying to @-reference optional links defeats the purpose! Optional files are best to be referenced with `back quotes`, and then we will pray that Opus will consider reading them, when it needs them.
 
 As the `agents.md` file is attached to _every session_, it should be concise and efficient. We want it to be under 4000 characters or so, and it is OK to strip it of most formating, except of those that you use for emphasis (like making `# Mandatory` above an h1 title, for example). Everything else should be optimized for space! You may even compromise on grammar sometimes, and you should definitely aggressively Strunk-and-White most proper language here. Go for the brevity of a cheat sheet a bad student writes on the back of their shoe to smuggle into an exam room: make every token count! For the technical overview part, it may help to start with a longer text, then ask the agent to compress and distill it, then rewrite it from scratch manually, as for now agents are pretty bad in distilation. Write a super-dence keyword-rich one-pagaraph overview manually.
 
