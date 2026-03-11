@@ -1,6 +1,16 @@
 # Using AI Agents Effectively
 
-This is my take on agentic coding with VS Code and Claude Opus 4.5 on GitHub Copilot, as of January 2026. It assumes that you are working with an existing codebase or on a tightly planned research project, and so would like to retain a high level of control over the code. The process I'm describing here does not even feel like pure vibe-coding. It's more like, a type of coding where you communicate mostly with "normal English" and touch almost no code directly, but where you still try to retain almost all of the decision power over what is happening to your codebase.
+This is a guide for agentic coding with VS Code and Claude Opus 4.6 on GitHub Copilot, as of Feb 2026. It assumes you are working with an existing codebase and would like to retain a high level of control over the code. The process described here does not feel like pure vibe-coding. It's a type of coding where you communicate mostly with "normal English" and touch almost no code directly, but where you still retain almost all of the decision power over what is happening to your codebase.
+
+## Motivation
+
+As of Feb 2026, Claude Opus 4.6 is the best model on the market, and it has a gigantic context window (200 k tokens), but also it's pretty expensive. Claude Code (a more popular AI coding tool, and a competitor of Copilot) allegedly tries to fill its entire window with almost the entire repo, and prevents agents from declaring an early victory, by forcing them to keep thinking about each problem. It works great, but it costs about 200-300 $/mo per user. Also, arguably, it may not automatically work for large repositories. So Microsoft pursues an alternative strategy: it sells Copilot about 10 times cheaper (!), and  they _encourage_ agents to declare early victories (so the opposite of what Anthropic does), and they aggressively manage the context (trigger early context compaction) to make sure it never grows too large. This means that the number of tokens processed per call is limited, and they can operate Claude cheaply. That's where the discount is coming from! But it also means that within Copilot, Claude can never ever read enough files to understand the repo in detail. It can read quite a bit if you force it, but then once it's time to code, it hits context compaction, and the performance drops.
+
+The document below is about trying to hack and use Microsoft's strategy by learning to operate agents in a sequence of sprints rather than one marathon. It means going for several individual sessions, rather than one long session, and also trying to optimize the rate of providing a newborn freshly initialized agent with info at the beginning of each session.
+
+## The basics
+
+As of early 2026 the prerequisites for using agents on the repo seem to be: Enable agentic work in VS Code Copilot plugin. Enable most tools for the agent (but demand a confirmation for bash runs). Double-check that if you go to "Configure Chat / Chat Settings", the setting of "Use agents.md" is checkmarked (it is, by default). Enable Claude skills (at this point, just in case). Switch the model to Claude Opus 4.6 (or Sonnet 4.6/4.5 if there's an outage).
 
 ## The Constitution: agents.md
 
